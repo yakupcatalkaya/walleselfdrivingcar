@@ -1,2 +1,2 @@
 # walleselfdrivingcar
-Self Driving Car in VHDL for Xilinx FPGA Card
+Self Driving Car Project in VHDL (with constraints file for Xilinx FPGA Card BASYS3)
